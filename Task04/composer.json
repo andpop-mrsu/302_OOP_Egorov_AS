@@ -1,0 +1,21 @@
+{
+    "name": "dskfjgh/302_oop_egorov_as",
+    "description": "Task04",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Eario13",
+            "email": "seregor2503@gmail.com"
+        }
+    ],
+    "require": {}
+}
