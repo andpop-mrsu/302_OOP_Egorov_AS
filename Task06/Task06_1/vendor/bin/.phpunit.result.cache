@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\ProductCollectionTest::testManufacturerFilter":0.028,"App\\Tests\\ProductCollectionTest::testMaxPriceFilter":0.023,"App\\Tests\\ProductCollectionTest::testMaxPriceNoDiscount":0}}
